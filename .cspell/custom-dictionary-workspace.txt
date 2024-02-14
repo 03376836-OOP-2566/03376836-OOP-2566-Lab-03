@@ -1,0 +1,5 @@
+# Custom Dictionary Words
+firstname
+fname
+Lastname
+lname
