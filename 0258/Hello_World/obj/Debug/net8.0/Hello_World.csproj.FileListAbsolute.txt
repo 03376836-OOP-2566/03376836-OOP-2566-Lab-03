@@ -1,0 +1,15 @@
+C:\Users\ao260\03376836-OOP-2566-Lab-03\0258\Hello_World\bin\Debug\net8.0\Hello_World.exe
+C:\Users\ao260\03376836-OOP-2566-Lab-03\0258\Hello_World\bin\Debug\net8.0\Hello_World.deps.json
+C:\Users\ao260\03376836-OOP-2566-Lab-03\0258\Hello_World\bin\Debug\net8.0\Hello_World.runtimeconfig.json
+C:\Users\ao260\03376836-OOP-2566-Lab-03\0258\Hello_World\bin\Debug\net8.0\Hello_World.dll
+C:\Users\ao260\03376836-OOP-2566-Lab-03\0258\Hello_World\bin\Debug\net8.0\Hello_World.pdb
+C:\Users\ao260\03376836-OOP-2566-Lab-03\0258\Hello_World\obj\Debug\net8.0\Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ao260\03376836-OOP-2566-Lab-03\0258\Hello_World\obj\Debug\net8.0\Hello_World.AssemblyInfoInputs.cache
+C:\Users\ao260\03376836-OOP-2566-Lab-03\0258\Hello_World\obj\Debug\net8.0\Hello_World.AssemblyInfo.cs
+C:\Users\ao260\03376836-OOP-2566-Lab-03\0258\Hello_World\obj\Debug\net8.0\Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\ao260\03376836-OOP-2566-Lab-03\0258\Hello_World\obj\Debug\net8.0\Hello_World.sourcelink.json
+C:\Users\ao260\03376836-OOP-2566-Lab-03\0258\Hello_World\obj\Debug\net8.0\Hello_World.dll
+C:\Users\ao260\03376836-OOP-2566-Lab-03\0258\Hello_World\obj\Debug\net8.0\refint\Hello_World.dll
+C:\Users\ao260\03376836-OOP-2566-Lab-03\0258\Hello_World\obj\Debug\net8.0\Hello_World.pdb
+C:\Users\ao260\03376836-OOP-2566-Lab-03\0258\Hello_World\obj\Debug\net8.0\Hello_World.genruntimeconfig.cache
+C:\Users\ao260\03376836-OOP-2566-Lab-03\0258\Hello_World\obj\Debug\net8.0\ref\Hello_World.dll
