@@ -5,9 +5,9 @@ var name = System.Console.ReadLine();
 System.Console.WriteLine($"Your name is {name}");
 ```
 
-![pic13](./Pictures/Picture-13.png)
+![](/Pictures/Picture-13.png)
 
-![pic14](./Pictures/Picture-14.png)
+![](/Pictures//Picture-14.png)
 
 
 ### อธิบายโปรแกรม
