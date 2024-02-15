@@ -45,3 +45,4 @@ git clone  https://github.com/03376836-OOP-2566/03376836-OOP-2566-Lab-03.git
 
 ถ้าพิมพ์ `dotnet --list-sdks` แล้วได้ผลดังในภาพด้านบน แสดงว่าเครื่องคอมพิวเตอร์มีความพร้อมที่จะทดลองด้วย dotnet CLI แล้ว
 
+## [Next >> 01.Intro_dornet_CLI](./01.Intro_dornet_CLI.md)
