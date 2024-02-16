@@ -1,0 +1,15 @@
+C:\Users\ao260\03376836-OOP-2566-Lab-03\0258\Lab03_Exercise05\bin\Debug\net8.0\Lab03_Exercise05.exe
+C:\Users\ao260\03376836-OOP-2566-Lab-03\0258\Lab03_Exercise05\bin\Debug\net8.0\Lab03_Exercise05.deps.json
+C:\Users\ao260\03376836-OOP-2566-Lab-03\0258\Lab03_Exercise05\bin\Debug\net8.0\Lab03_Exercise05.runtimeconfig.json
+C:\Users\ao260\03376836-OOP-2566-Lab-03\0258\Lab03_Exercise05\bin\Debug\net8.0\Lab03_Exercise05.dll
+C:\Users\ao260\03376836-OOP-2566-Lab-03\0258\Lab03_Exercise05\bin\Debug\net8.0\Lab03_Exercise05.pdb
+C:\Users\ao260\03376836-OOP-2566-Lab-03\0258\Lab03_Exercise05\obj\Debug\net8.0\Lab03_Exercise05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ao260\03376836-OOP-2566-Lab-03\0258\Lab03_Exercise05\obj\Debug\net8.0\Lab03_Exercise05.AssemblyInfoInputs.cache
+C:\Users\ao260\03376836-OOP-2566-Lab-03\0258\Lab03_Exercise05\obj\Debug\net8.0\Lab03_Exercise05.AssemblyInfo.cs
+C:\Users\ao260\03376836-OOP-2566-Lab-03\0258\Lab03_Exercise05\obj\Debug\net8.0\Lab03_Exercise05.csproj.CoreCompileInputs.cache
+C:\Users\ao260\03376836-OOP-2566-Lab-03\0258\Lab03_Exercise05\obj\Debug\net8.0\Lab03_Exercise05.sourcelink.json
+C:\Users\ao260\03376836-OOP-2566-Lab-03\0258\Lab03_Exercise05\obj\Debug\net8.0\Lab03_Exercise05.dll
+C:\Users\ao260\03376836-OOP-2566-Lab-03\0258\Lab03_Exercise05\obj\Debug\net8.0\refint\Lab03_Exercise05.dll
+C:\Users\ao260\03376836-OOP-2566-Lab-03\0258\Lab03_Exercise05\obj\Debug\net8.0\Lab03_Exercise05.pdb
+C:\Users\ao260\03376836-OOP-2566-Lab-03\0258\Lab03_Exercise05\obj\Debug\net8.0\Lab03_Exercise05.genruntimeconfig.cache
+C:\Users\ao260\03376836-OOP-2566-Lab-03\0258\Lab03_Exercise05\obj\Debug\net8.0\ref\Lab03_Exercise05.dll
