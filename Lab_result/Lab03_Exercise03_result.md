@@ -7,17 +7,17 @@
 
 - `System.Console.WriteLine("Before Concatenate of s1 and s2"); แสดงข้อความ "Before Concatenate of s1 and s2"` บน Console
 
-- `System.Console.WriteLine($"s1 = \"{s1}\", Hash code = {s1.GetHashCode():X}");` แสดงค่าของ s1 พร้อมกับ hash code ของ s1 ในรูปแบบที่ถูกแปลงเป็นตัวอักษรฐาน 16 (hexadeci-mal)
+- `System.Console.WriteLine($"s1 = \"{s1}\", Hash code = {s1.GetHashCode():X}");` แสดงค่าของ s1 พร้อมกับ hash code ของ s1 ในรูปแบบที่ถูกแปลงเป็นตัวอักษรฐาน 16 
 
-- `System.Console.WriteLine($"s2 = \"{s2}\", Hash code = {s2.GetHashCode():X}");` แสดงค่าของ s2 พร้อมกับ hash code ของ s2 ในรูปแบบที่ถูกแปลงเป็นตัวอักษรฐาน 16 (hexadecimal)
+- `System.Console.WriteLine($"s2 = \"{s2}\", Hash code = {s2.GetHashCode():X}");` แสดงค่าของ s2 พร้อมกับ hash code ของ s2 ในรูปแบบที่ถูกแปลงเป็นตัวอักษรฐาน 16 
 
 - `s1 += s2; นำ string s2 มา concatenate กับ s1 และเก็บผลลัพธ์ใน s1. `คำสั่งนี้จะสร้าง string object ใหม่ และเก็บ reference ของ object ใหม่นี้ใน s1, โดยทำให้ reference ของ object เดิมที่เกี่ยวข้องกับ s1 ก่อนหน้านี้ถูกปล่อย
 
 - `System.Console.WriteLine("After Concatenate of s1 and s2");` แสดงข้อความ "After Concatenate of s1 and s2" บน Console เพื่อแสดงถึงขั้นตอนที่ทำการ concatenate เสร็จสิ้น
 
-- `System.Console.WriteLine($"s1 = \"{s1}\", Hash code = {s1.GetHashCode():X}");` แสดงค่าของ s1 หลังจากทำการ concatenate พร้อมกับ hash code ของ s1 ในรูปแบบที่ถูกแปลงเป็นตัวอักษรฐาน 16 (hexadecimal)
+- `System.Console.WriteLine($"s1 = \"{s1}\", Hash code = {s1.GetHashCode():X}");` แสดงค่าของ s1 หลังจากทำการ concatenate พร้อมกับ hash code ของ s1 ในรูปแบบที่ถูกแปลงเป็นตัวอักษรฐาน 16 
 
-- `System.Console.WriteLine($"s2 = \"{s2}\", Hash code = {s2.GetHashCode():X}");` แสดงค่าของ s2 หลังจากทำการ concatenate พร้อมกับ hash code ของ s2 ในรูปแบบที่ถูกแปลงเป็นตัวอักษรฐาน 16 (hexadecimal)
+- `System.Console.WriteLine($"s2 = \"{s2}\", Hash code = {s2.GetHashCode():X}");` แสดงค่าของ s2 หลังจากทำการ concatenate พร้อมกับ hash code ของ s2 ในรูปแบบที่ถูกแปลงเป็นตัวอักษรฐาน 16 
 
 ### อธิบายผลโปรแกรม
 
