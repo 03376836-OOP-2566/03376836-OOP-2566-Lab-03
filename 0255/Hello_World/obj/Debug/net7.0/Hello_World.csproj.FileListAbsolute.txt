@@ -1,0 +1,15 @@
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-03\0255\Hello_World\bin\Debug\net7.0\Hello_World.exe
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-03\0255\Hello_World\bin\Debug\net7.0\Hello_World.deps.json
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-03\0255\Hello_World\bin\Debug\net7.0\Hello_World.runtimeconfig.json
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-03\0255\Hello_World\bin\Debug\net7.0\Hello_World.dll
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-03\0255\Hello_World\bin\Debug\net7.0\Hello_World.pdb
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-03\0255\Hello_World\obj\Debug\net7.0\Hello_World.csproj.AssemblyReference.cache
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-03\0255\Hello_World\obj\Debug\net7.0\Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-03\0255\Hello_World\obj\Debug\net7.0\Hello_World.AssemblyInfoInputs.cache
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-03\0255\Hello_World\obj\Debug\net7.0\Hello_World.AssemblyInfo.cs
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-03\0255\Hello_World\obj\Debug\net7.0\Hello_World.csproj.CoreCompileInputs.cache
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-03\0255\Hello_World\obj\Debug\net7.0\Hello_World.dll
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-03\0255\Hello_World\obj\Debug\net7.0\refint\Hello_World.dll
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-03\0255\Hello_World\obj\Debug\net7.0\Hello_World.pdb
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-03\0255\Hello_World\obj\Debug\net7.0\Hello_World.genruntimeconfig.cache
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-03\0255\Hello_World\obj\Debug\net7.0\ref\Hello_World.dll
