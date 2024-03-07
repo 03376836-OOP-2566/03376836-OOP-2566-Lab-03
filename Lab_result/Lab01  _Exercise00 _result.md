@@ -45,9 +45,11 @@
 การใช้งานคำสั่งอื่น ๆ สามารถแสดงได้โดยการใช้คำสั่ง dotnet --help <command>
 <br>
 <br>
-![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/83606a0f-ab93-4717-8065-b87dbafba3e0)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/4c66ccff-3158-4730-ba97-850b0d7a557d)
 
-![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/467f3fcf-3ce8-49b0-8c47-176c3c1db342)
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/aac9db22-a5ba-44f0-8545-8579832dd938)
+
 
 <br>
 <br>
