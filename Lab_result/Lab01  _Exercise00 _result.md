@@ -8,6 +8,12 @@
 
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/7a7793c8-b4a2-441d-b001-6b175b545953)
 
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/d62eb647-9951-4079-bdef-1182f56298e9)
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/0b52219b-e338-4f53-9576-bd74c13e4f84)
+
+
 <br>
 <br>
 คำสั่งที่ใช้ในการทดลองพื้นฐาน จะมี 3 คำสั่งคือ new, build และ run ซึ่งมีรูปแบบ
