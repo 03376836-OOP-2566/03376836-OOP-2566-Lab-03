@@ -1,0 +1,14 @@
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-03\03376836-OOP-2566-Lab-03\0289\Hello_World\bin\Debug\net7.0\Hello_World.exe
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-03\03376836-OOP-2566-Lab-03\0289\Hello_World\bin\Debug\net7.0\Hello_World.deps.json
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-03\03376836-OOP-2566-Lab-03\0289\Hello_World\bin\Debug\net7.0\Hello_World.runtimeconfig.json
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-03\03376836-OOP-2566-Lab-03\0289\Hello_World\bin\Debug\net7.0\Hello_World.dll
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-03\03376836-OOP-2566-Lab-03\0289\Hello_World\bin\Debug\net7.0\Hello_World.pdb
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-03\03376836-OOP-2566-Lab-03\0289\Hello_World\obj\Debug\net7.0\Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-03\03376836-OOP-2566-Lab-03\0289\Hello_World\obj\Debug\net7.0\Hello_World.AssemblyInfoInputs.cache
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-03\03376836-OOP-2566-Lab-03\0289\Hello_World\obj\Debug\net7.0\Hello_World.AssemblyInfo.cs
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-03\03376836-OOP-2566-Lab-03\0289\Hello_World\obj\Debug\net7.0\Hello_World.csproj.CoreCompileInputs.cache
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-03\03376836-OOP-2566-Lab-03\0289\Hello_World\obj\Debug\net7.0\Hello_World.dll
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-03\03376836-OOP-2566-Lab-03\0289\Hello_World\obj\Debug\net7.0\refint\Hello_World.dll
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-03\03376836-OOP-2566-Lab-03\0289\Hello_World\obj\Debug\net7.0\Hello_World.pdb
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-03\03376836-OOP-2566-Lab-03\0289\Hello_World\obj\Debug\net7.0\Hello_World.genruntimeconfig.cache
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-03\03376836-OOP-2566-Lab-03\0289\Hello_World\obj\Debug\net7.0\ref\Hello_World.dll
