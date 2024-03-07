@@ -13,10 +13,7 @@
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/c6418d3c-1256-46de-bcc3-9fa9580d2007)
 
 <br>
-
-
-<br>
-    clone repository โดยใช้คำสั่ง
+  clone repository โดยใช้คำสั่ง
 <br>
 git clone  https://github.com/03376836-OOP-2566/03376836-OOP-2566-Lab-03.git
 <br>
@@ -27,6 +24,7 @@ git clone  https://github.com/03376836-OOP-2566/03376836-OOP-2566-Lab-03.git
 <br>
 
 ย้ายเข้าไปใน folder ของใบงาน แล้วสร้าง folder สวนตัว โดยใช้รูปแบบ Lab3-xxxx เมื่อ xxxx คือ เลขสี่ตัวท้้ายของรหัสนักศึกษา ด้วยคำสั่ง mkdir xxxx และเรียกดูโดยคำสั่ง ls
+<br>
 
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/d701fd3f-e144-44e4-98b1-c6afd3c152ca)
 
