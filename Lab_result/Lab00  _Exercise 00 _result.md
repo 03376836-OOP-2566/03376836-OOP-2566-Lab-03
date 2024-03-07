@@ -1,4 +1,4 @@
-1.1.1 การเตรียมการทดลอง
+# 1.1.1 การเตรียมการทดลอง
 <br>
     เรียก Windows File Explorer ขึ้นมา (กดปุ่ม Windows - E) แล้วย้ายเข้าไปทำงานใน folder งานของวิชา OOP บน harddisk ของตัวเอง
 <br>
@@ -31,7 +31,7 @@ git clone  https://github.com/03376836-OOP-2566/03376836-OOP-2566-Lab-03.git
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/d701fd3f-e144-44e4-98b1-c6afd3c152ca)
 
 <br>
-1.1.2 ตรวจสอบว่าได้มีการติดตั้ง dotnet software development kit ในเครื่องหรือยัง
+# 1.1.2 ตรวจสอบว่าได้มีการติดตั้ง dotnet software development kit ในเครื่องหรือยัง
 <br>
 
     พิมพ์คำสั่ง dotnet --list-sdks จะเห็น version และตำแหน่งที่ตั้งของ sdk
@@ -45,5 +45,6 @@ git clone  https://github.com/03376836-OOP-2566/03376836-OOP-2566-Lab-03.git
 ถ้าพิมพ์ dotnet --list-sdks แล้วได้ผลดังในภาพด้านบน แสดงว่าเครื่องคอมพิวเตอร์มีความพร้อมที่จะทดลองด้วย dotnet CLI แล้ว
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/35453084-d74c-4297-bee3-b39e034ce2ea)
 
+<br>
 <br>
 65030289 นางสาว อัญชิสา เพชรน้อย 
