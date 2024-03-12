@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\git\555\03376836-OOP-2566-Lab-03\0028\Lab03_Exercise03\bin\Debug\net8.0\Lab03_Exercise03.exe
+C:\Users\HP\Downloads\git\555\03376836-OOP-2566-Lab-03\0028\Lab03_Exercise03\bin\Debug\net8.0\Lab03_Exercise03.deps.json
+C:\Users\HP\Downloads\git\555\03376836-OOP-2566-Lab-03\0028\Lab03_Exercise03\bin\Debug\net8.0\Lab03_Exercise03.runtimeconfig.json
+C:\Users\HP\Downloads\git\555\03376836-OOP-2566-Lab-03\0028\Lab03_Exercise03\bin\Debug\net8.0\Lab03_Exercise03.dll
+C:\Users\HP\Downloads\git\555\03376836-OOP-2566-Lab-03\0028\Lab03_Exercise03\bin\Debug\net8.0\Lab03_Exercise03.pdb
+C:\Users\HP\Downloads\git\555\03376836-OOP-2566-Lab-03\0028\Lab03_Exercise03\obj\Debug\net8.0\Lab03_Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\git\555\03376836-OOP-2566-Lab-03\0028\Lab03_Exercise03\obj\Debug\net8.0\Lab03_Exercise03.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\git\555\03376836-OOP-2566-Lab-03\0028\Lab03_Exercise03\obj\Debug\net8.0\Lab03_Exercise03.AssemblyInfo.cs
+C:\Users\HP\Downloads\git\555\03376836-OOP-2566-Lab-03\0028\Lab03_Exercise03\obj\Debug\net8.0\Lab03_Exercise03.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\git\555\03376836-OOP-2566-Lab-03\0028\Lab03_Exercise03\obj\Debug\net8.0\Lab03_Exercise03.sourcelink.json
+C:\Users\HP\Downloads\git\555\03376836-OOP-2566-Lab-03\0028\Lab03_Exercise03\obj\Debug\net8.0\Lab03_Exercise03.dll
+C:\Users\HP\Downloads\git\555\03376836-OOP-2566-Lab-03\0028\Lab03_Exercise03\obj\Debug\net8.0\refint\Lab03_Exercise03.dll
+C:\Users\HP\Downloads\git\555\03376836-OOP-2566-Lab-03\0028\Lab03_Exercise03\obj\Debug\net8.0\Lab03_Exercise03.pdb
+C:\Users\HP\Downloads\git\555\03376836-OOP-2566-Lab-03\0028\Lab03_Exercise03\obj\Debug\net8.0\Lab03_Exercise03.genruntimeconfig.cache
+C:\Users\HP\Downloads\git\555\03376836-OOP-2566-Lab-03\0028\Lab03_Exercise03\obj\Debug\net8.0\ref\Lab03_Exercise03.dll
