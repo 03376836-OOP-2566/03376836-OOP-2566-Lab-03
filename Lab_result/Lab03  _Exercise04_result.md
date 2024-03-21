@@ -10,8 +10,7 @@ Quoted string literals เป็นข้อความที่อยู่ภ
 dotnet new console -n Lab03_Exercise04
 ```
 
-
-
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/6e54fc2f-1cf4-4f35-974e-815a122fa3ad)
 
 
 2. แก้ไข code ใน Program.cs เป็นดังนี้
@@ -25,8 +24,10 @@ System.Console.WriteLine(columns);
 System.Console.WriteLine(rows);
 System.Console.WriteLine(title);
 ```
-### อธิบายโปรแกรม
 
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/c27a746b-6b76-40cf-afd8-c5daf649e405)
+
+### อธิบายโปรแกรม
 
 
 
@@ -39,9 +40,7 @@ System.Console.WriteLine(title);
 ```cmd
 dotnet run --project Lab03_Exercise04
 ```
-
-
-
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/9ceb3593-ef13-46f1-b72b-d25e7c7d780e)
 
 
 ## ศึกษาเพิ่มเติม
