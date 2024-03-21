@@ -39,6 +39,7 @@ Console.WriteLine(s4);
 
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/accc5bfb-cbb3-484b-a2d0-0a199b9f3e9b)
 
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/008960a3-4524-4284-a920-3244bc7d6b83)
 
 
 
@@ -49,6 +50,8 @@ Console.WriteLine(s4);
 dotnet run --project Lab03_Exercise02
 ```
 
+
+## อธิบายผลที่ได้จากคำสั่ง
 
 
 
