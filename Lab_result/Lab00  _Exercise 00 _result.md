@@ -15,7 +15,8 @@
 
 <br>
 
-![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/c6418d3c-1256-46de-bcc3-9fa9580d2007)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/39c63200-5fc7-4aa9-aebe-82c46f9d9091)
+
 
 <br>
   clone repository โดยใช้คำสั่ง
