@@ -19,15 +19,13 @@
 
 <br>
 <br>
-```
+
 
 คำสั่งที่ใช้ในการทดลองพื้นฐาน จะมี 3 คำสั่งคือ new, build และ run ซึ่งมีรูปแบบ
 
 
 ### 2.1.2  `dotnet new`
-```
-<br>
-<br>
+
 
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/38649b7a-e02d-47fa-8ccd-9ffa20d6a4d5)
 
