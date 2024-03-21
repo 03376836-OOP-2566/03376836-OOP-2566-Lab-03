@@ -41,6 +41,7 @@ System.Console.WriteLine($"s2 = \"{s2}\", Hash code = {s2.GetHashCode():X}");
 เป็นการแสดง hash code (รหัสประจำตัวของ object ของ s1)
 
 object คนละตัวกันจะมี Hash code ไม่ตรงกัน
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/cb12eb26-6637-4a25-b832-8c5039024ee2)
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/9a21ce24-f654-4e12-8cbc-a30ab51592cb)
 
 ## รันโปรแกรม
