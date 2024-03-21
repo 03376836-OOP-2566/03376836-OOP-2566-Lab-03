@@ -1,7 +1,10 @@
 # แนะนำ dotnet CLI
+
 ## 2. คำสั่งพื้นฐาน
-### 2.1.1 dotnet -–help
-คำสั่ง --help จะแสดงคำสั่งพร้อมรูปแบบการใช้งานโดยย่อออกมา
+
+### 2.1.1  `dotnet -–help`
+
+คำสั่ง `--help` จะแสดงคำสั่งพร้อมรูปแบบการใช้งานโดยย่อออกมา
 <br>
 <br>
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/b4feb829-a4d5-4ec0-bc2e-ebc15ff34200)
@@ -16,10 +19,14 @@
 
 <br>
 <br>
+```
+
 คำสั่งที่ใช้ในการทดลองพื้นฐาน จะมี 3 คำสั่งคือ new, build และ run ซึ่งมีรูปแบบ
+
 <br>
 <br>
-### 2.1.2 dotnet new
+### 2.1.2  `dotnet new`
+```
 <br>
 <br>
 
@@ -27,10 +34,12 @@
 
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/e73ca702-e0ba-4288-ab97-07328486982f)
 
+ดูเพิ่มเติมที่
 
+<https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-new>
 <br>
 <br>
-### 2.1.3 dotnet build
+### 2.1.3  `dotnet build`
 <br>
 <br>
 
@@ -40,15 +49,16 @@
 
 <br>
 <br>
-### 2.1.4 dotnet run
+### 2.1.4  `dotnet run`
+
 <br>
 <br>
 
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/d5964373-18e5-4d77-9c66-f7f7b2aa7877)
 
-### 2.1.4 คำสั่งอืน ๆ
+### 2.1.4  คำสั่งอืน ๆ
 
-การใช้งานคำสั่งอื่น ๆ สามารถแสดงได้โดยการใช้คำสั่ง dotnet --help <command>
+การใช้งานคำสั่งอื่น ๆ สามารถแสดงได้โดยการใช้คำสั่ง `dotnet --help <command>`
 <br>
 <br>
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/4c66ccff-3158-4730-ba97-850b0d7a557d)
