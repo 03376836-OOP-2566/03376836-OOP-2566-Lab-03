@@ -51,7 +51,7 @@ dotnet run --project Lab03_Exercise03
 ```
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/6e2893ab-a590-42af-a0f5-90992f343b1f)
 
-![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/35ea3b72-200d-4a84-81bc-cc8998c2062a)
+
 
 ## ศึกษาเพิ่มเติม
 
