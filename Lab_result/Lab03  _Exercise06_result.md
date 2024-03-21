@@ -34,3 +34,5 @@ System.Console.WriteLine($$"""Distance from origin to the point ({x},{y}) is {Ma
 ```cmd
 dotnet run --project Lab03_Exercise06
 ```
+
+### 65030289 นางสาว อัญชิสา เพชรน้อย 
