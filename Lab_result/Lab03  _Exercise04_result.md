@@ -35,7 +35,7 @@ System.Console.WriteLine(title);
 
 ในส่วนของโค้ด System.Console.WriteLine(rows); จะส่งผลให้โปรแกรม Run Row1 Row2 Row3 อยู่ตรง Column 1 เชื่อมกับโค้ด string rows = "Row 1\r\nRow 2\r\nRow 3";
 
-ในส่วนของโค้ด System.Console.WriteLine(title);  จะส่งผลให้โปรแกรม Run ออกมาเป้นข้อความที่เชื่อมกับโค้ด string title = "\"I \u0003 C\u0023"; จะ Run ออกมาเป็น  "I  ♥ C# ตามภาพ
+ในส่วนของโค้ด System.Console.WriteLine(title);  จะส่งผลให้โปรแกรม Run ออกมาเป็นข้อความที่เชื่อมกับโค้ด string title = "\"I \u0003 C\u0023"; จะ Run ออกมาเป็น  "I  ♥ C# ตามภาพ
 
 
 
