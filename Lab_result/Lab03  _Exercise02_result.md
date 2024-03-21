@@ -38,6 +38,11 @@ Console.WriteLine(s4);
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/26db43e8-5c04-4c46-a6e3-e8d21ba6c727)
 
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/accc5bfb-cbb3-484b-a2d0-0a199b9f3e9b)
+
+
+
+
+
 3. ทดสอบโปรแกรม cutpture หน้าจอ และอธิบายผลที่ได้
 
 ```cmd
