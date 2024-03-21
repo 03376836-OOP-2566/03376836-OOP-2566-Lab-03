@@ -12,7 +12,7 @@ dotnet new console -n Hello_World
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/42688d62-ab0c-4ed6-adb9-2bfd89bebfe0)
 
 
-![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/d98df9cf-37e1-4429-8f26-73539cae76e6)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/e80005bc-f4c0-4992-a51b-6705ddc12140)
 
 
 
