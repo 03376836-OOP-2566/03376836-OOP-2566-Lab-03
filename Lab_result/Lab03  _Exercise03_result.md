@@ -9,6 +9,11 @@
 ```cmd
 dotnet new console -n Lab03_Exercise03
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/cb12eb26-6637-4a25-b832-8c5039024ee2)
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/36e67562-53ee-433c-9780-7cd1dff868d1)
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/0f36cbc9-b063-448c-8756-8aec497ea461)
 
 2. แก้ไข code ใน Program.cs เป็นดังนี้
 
@@ -36,12 +41,16 @@ System.Console.WriteLine($"s2 = \"{s2}\", Hash code = {s2.GetHashCode():X}");
 เป็นการแสดง hash code (รหัสประจำตัวของ object ของ s1)
 
 object คนละตัวกันจะมี Hash code ไม่ตรงกัน
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/9a21ce24-f654-4e12-8cbc-a30ab51592cb)
 
 ## รันโปรแกรม
 
 ```cmd
 dotnet run --project Lab03_Exercise03
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/6e2893ab-a590-42af-a0f5-90992f343b1f)
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/35ea3b72-200d-4a84-81bc-cc8998c2062a)
 
 ## ศึกษาเพิ่มเติม
 
