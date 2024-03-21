@@ -6,7 +6,8 @@
 <br>
 <br>
 
-![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/53531651-6060-4756-af36-307b681ab280)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/9235f00d-9847-4040-b9c0-77775de05382)
+
 
 <br>
 
