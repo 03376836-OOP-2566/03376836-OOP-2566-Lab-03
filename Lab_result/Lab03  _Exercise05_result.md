@@ -47,6 +47,8 @@ System.Console.WriteLine($"quote_in_verbatim_text = {quote_in_verbatim_text}");
 System.Console.WriteLine($"quote_in_text = {quote_in_text}");
 
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/424876bc-367c-4c03-ae8e-f6f41f1c36c5)
+
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/4e62a41c-5c40-46a1-a8e7-a6fac099478c)
 
 
