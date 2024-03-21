@@ -29,7 +29,9 @@ System.Console.WriteLine(title);
 
 ### อธิบายโปรแกรม
 เป็นโปรแกรม C# ที่ใช้ในการสร้างข้อความออกทางหน้าจอ โดยมีการใช้ escape sequences ในการจัดรูปแบบข้อความ และการใช้ Unicode character ในข้อความ โดยมีรายละเอียดดังนี้
- columns เป็น string ที่เก็บข้อความ "Column 1\tColumn 2\tColumn 3" โดยที่ \t คือ escape sequence ที่ใช้เพื่อแทนการขึ้น tab ในข้อความ เมื่อพิมพ์ออกมา tab จะถูกเพิ่มระหว่างคอลัมน์ต่างๆ rows เป็น string ที่เก็บข้อความ "Row 1\r\nRow 2\r\nRow 3" โดยที่ \r\n คือ escape sequence ส่วนบรรนทัด string title จะสร้างข้อความ ที่เป็น "\"I \u0003 C\u0023"; โดยจะโปลแกรมจะ Run ข้อความ ออกมาเป็น I u00038คือสัญลักษร์ หัวใจ และC\u0023" และu0023 คือสัญลักษณ์ # พอรวมข้อความออกมาจะเป็น  "I  ♥ C#
+ columns เป็น string ที่เก็บข้อความ "Column 1\tColumn 2\tColumn 3" โดยที่ \t คือ escape sequence ที่ใช้เพื่อแทนการขึ้น tab ในข้อความ เมื่อพิมพ์ออกมา tab จะถูกเพิ่มระหว่างคอลัมน์ต่างๆ rows เป็น string ที่เก็บข้อความ "Row 1\r\nRow 2\r\nRow 3" โดยที่ \r\n คือ escape sequence ส่วนบรรนทัด string title จะสร้างข้อความ ที่เป็น "\"I \u0003 C\u0023"; โดยจะโปลแกรมจะ Run ข้อความ ออกมาเป็น I u00038คือสัญลักษร์ หัวใจ และC\u0023" และu0023 คือสัญลักษณ์ # 
+ 
+พอรวมข้อความออกมาจะเป็น  "I  ♥ C#
  
 ในส่วนของโค้ด   System.Console.WriteLine(columns);จะส่งผลให้โปรแกรม Run ออกมาเป็น columns1  columns2 columns3 Run ตามโค้ดของ string columns = "Column 1\tColumn 2\tColumn 3";
 
