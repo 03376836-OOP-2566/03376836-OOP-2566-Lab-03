@@ -13,6 +13,9 @@ Null strings คือ reference ที่ไม่ได้ชี้ไปย�
 ```cmd
 dotnet new console -n Lab03_Exercise08
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/0eff9fdb-a024-49da-a32d-5f791fbf240c)
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/8303baf9-b692-4365-ac04-ecee2f498adf)
 
 2. แก้ไข code ใน Program.cs เป็นดังนี้
 
@@ -55,11 +58,25 @@ string s2 = "abc" + "\x0";
 System.Console.WriteLine(@"s2 = ""abc"" + ""\x0""");
 System.Console.WriteLine($"s2 = *{s2}*, s2.Length = {s2.Length}");
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/b72a925e-c1e8-4e7c-9a3a-1f3e0c3a4841)
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/8843c32f-84a1-4c7a-9f39-c8d85cf1b3c9)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/2e71f867-b932-4c5a-a61d-1ce512eeb0a7)
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/8343c438-dd3c-42b0-bb55-53d2802f1556)
 
 ## รันโปรแกรม
 
 ```cmd
 dotnet run --project Lab03_Exercise08
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/6324e717-3a37-4da2-81a1-f76891a2d985)
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/79f61d37-9446-434e-892e-2b7e6ae23f76)
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/a4506955-b5c7-4a80-8107-382e07788f1b)
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/8c3e0790-853a-4915-aa4f-aa3c86294587)
+
 
 ### 65030289 นางสาว อัญชิสา เพชรน้อย
