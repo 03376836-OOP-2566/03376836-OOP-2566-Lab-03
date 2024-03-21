@@ -11,8 +11,10 @@
 
 <br>
 
-![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/8967c7c1-45ff-48cc-8077-475bc3b7c7cb)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/56977627-fbea-4e42-bc7f-123108415852)
+
 <br>
+
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/c6418d3c-1256-46de-bcc3-9fa9580d2007)
 
 <br>
