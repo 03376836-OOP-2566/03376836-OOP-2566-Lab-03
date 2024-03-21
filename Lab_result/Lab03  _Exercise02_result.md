@@ -11,6 +11,8 @@ dotnet new console -n Lab03_Exercise02
 
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/874cb79c-0fb9-4af8-b145-d8b3f9d4198d)
 
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/bc5ffaa8-f588-40d3-9be2-b66bdecb0003)
+
 2. แก้ไข code ใน Program.cs เป็นดังนี้
 
 ```cs
@@ -49,9 +51,22 @@ Console.WriteLine(s4);
 ```cmd
 dotnet run --project Lab03_Exercise02
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/d7b97538-d009-4486-8645-0c1907c02013)
 
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/0430a0bd-3179-4c8a-a079-db814846dfa6)
 
-## อธิบายผลที่ได้จากคำสั่ง
+## อธิบายผลที่ได้
+จากคำสั่งในการเขียนโค้ดใหม่ลงไปบน C# 
+โค้ดด้านบนเป็นโปรแกรม C# ที่ใช้ในการสร้างและพิมพ์ข้อความ "Hello, World!" ออกทางหน้าจอ โดยมีการใช้ตัวแปรชนิดต่างๆ ในการเก็บข้อความเดียวกันและพิมพ์ออกมา โดยตัวแปรที่ใช้มีดังนี้:
+
+   s1 คือ string object ที่สร้างโดยใช้ constructor new string() และใส่ค่า "Hello, World!" ลงไป ซึ่งไม่มีความจำเป็นในกรณีนี้ เนื่องจากสามารถกำหนดค่า string โดยตรงได้ ดังนั้นมันจะทำงานได้เหมือนกับการใช้ string literal ตรงๆ
+    s2 เป็น string literal ที่กำหนดค่า "Hello, World!" โดยตรง
+    s3 เป็น implicit variable (var) ที่กำหนดค่า "Hello, World!" โดยตรง โดย C# จะให้ประเภทของตัวแปรถูกต้องโดยอัตโนมัติจากค่าที่กำหนดให้
+    s4 เป็น string object ที่สร้างโดยใช้ constructor new() และใส่ค่า "Hello, World!" ลงไป ซึ่งใช้ได้เหมือนกับ s1 แต่วิธีการสร้างออบเจ็กต์ต่างกัน
+
+ผลลัพธ์ที่ได้จากการพิมพ์ออกมาทางหน้าจอคือ "Hello, World!" ทั้ง 4 รอบ เนื่องจากทุกตัวแปรมีค่าเท่ากัน
+
+โดยเมื่อใช้คำสั่ง dotnet run --project Lab03_Exercise02 จะแสดงผลบน git bash ว่า "Hello, World!"
 
 
 
