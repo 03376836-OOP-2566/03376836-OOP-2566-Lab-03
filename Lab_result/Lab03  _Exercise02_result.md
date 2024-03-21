@@ -9,6 +9,8 @@ dotnet new console -n Lab03_Exercise02
 ```
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/a297ad19-6440-491f-9e53-76c27db5c47e)
 
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/874cb79c-0fb9-4af8-b145-d8b3f9d4198d)
+
 2. แก้ไข code ใน Program.cs เป็นดังนี้
 
 ```cs
@@ -30,19 +32,19 @@ Console.WriteLine(s4);
 - `var s3 = "Hello, World!";`  เป็น local variable string literal
 - `string s4 = new("Hello, World!");` เป็นรูปแบบย่อของ `string s1 = new string("Hello, World!");`
 
-![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/874cb79c-0fb9-4af8-b145-d8b3f9d4198d)
+
 
 
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/26db43e8-5c04-4c46-a6e3-e8d21ba6c727)
 
-
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/accc5bfb-cbb3-484b-a2d0-0a199b9f3e9b)
 3. ทดสอบโปรแกรม cutpture หน้าจอ และอธิบายผลที่ได้
 
 ```cmd
 dotnet run --project Lab03_Exercise02
 ```
 
-![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/accc5bfb-cbb3-484b-a2d0-0a199b9f3e9b)
+
 
 
 ## ศึกษาเพิ่มเติม
