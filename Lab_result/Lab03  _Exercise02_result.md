@@ -62,6 +62,7 @@ s1 คือ string object ที่สร้างโดยใช้ constructo
  s2 เป็น string literal ที่กำหนดค่า "Hello, World!" โดยตรง
  s3 เป็น implicit variable (var) ที่กำหนดค่า "Hello, World!" โดยตรง โดย C# จะให้ประเภทของตัวแปรถูกต้องโดยอัตโนมัติจากค่าที่กำหนดให้
 s4 เป็น string object ที่สร้างโดยใช้ constructor new() และใส่ค่า "Hello, World!" ลงไป ซึ่งใช้ได้เหมือนกับ s1 แต่วิธีการสร้างออบเจ็กต์ต่างกัน
+
 ผลลัพธ์ที่ได้จากการพิมพ์ออกมาทางหน้าจอคือ "Hello, World!" ทั้ง 4 รอบ เนื่องจากทุกตัวแปรมีค่าเท่ากัน
 โดยเมื่อใช้คำสั่ง dotnet run --project Lab03_Exercise02 จะแสดงผลบน git bash ว่า "Hello, World!"
 
