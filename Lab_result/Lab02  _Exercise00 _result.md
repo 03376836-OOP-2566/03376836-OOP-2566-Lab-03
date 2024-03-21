@@ -42,6 +42,8 @@ dotnet จะ build project และสร้าง folder ใหม่ขึ�
 
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/795273cc-5802-420a-ad06-1f9d43f9f542)
 
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/ac5da64f-9fb5-41c1-9537-362936f7a7d5)
+
 4. ใน terminal ของ visual studio code ให้พิมพ์คำสั่งต่อไปนี้
 
 ``` cmd
@@ -49,14 +51,15 @@ dotnet run --project Hello_World
 ```
  จะได้ผลลัพธ์
 
-![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/ac5da64f-9fb5-41c1-9537-362936f7a7d5)
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/8e4b06ca-0697-4d73-a93c-b17873ce22e6)
 
 หมายเหตุ
 
 ใน vscode มี extension หลายตัวที่ช่วยเขียนโปรแกรม เบื้องต้นให้ติดตั้ง extension C# Dev Kit จาก Microsoft
 
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/221f6e54-1af1-496b-a374-f476ad28e7a1)
 
-![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/1144074f-a6d8-4404-9141-a20cda53424a)
+
 
 
 
