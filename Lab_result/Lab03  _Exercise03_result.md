@@ -47,3 +47,5 @@ dotnet run --project Lab03_Exercise03
 
 GetHashCode() method
 <https://learn.microsoft.com/en-us/dotnet/api/system.object.gethashcode?view=net-8.0>
+
+### 65030289 นางสาว อัญชิสา เพชรน้อย
