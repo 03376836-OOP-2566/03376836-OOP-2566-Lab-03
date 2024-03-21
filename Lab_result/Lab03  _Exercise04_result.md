@@ -28,10 +28,14 @@ System.Console.WriteLine(title);
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/c27a746b-6b76-40cf-afd8-c5daf649e405)
 
 ### อธิบายโปรแกรม
+เป็นโปรแกรม C# ที่ใช้ในการสร้างข้อความออกทางหน้าจอ โดยมีการใช้ escape sequences ในการจัดรูปแบบข้อความ และการใช้ Unicode character ในข้อความ โดยมีรายละเอียดดังนี้
+ columns เป็น string ที่เก็บข้อความ "Column 1\tColumn 2\tColumn 3" โดยที่ \t คือ escape sequence ที่ใช้เพื่อแทนการขึ้น tab ในข้อความ เมื่อพิมพ์ออกมา tab จะถูกเพิ่มระหว่างคอลัมน์ต่างๆ rows เป็น string ที่เก็บข้อความ "Row 1\r\nRow 2\r\nRow 3" โดยที่ \r\n คือ escape sequence ส่วนบรรนทัด string title จะสร้างข้อความ ที่เป็น "\"I \u0003 C\u0023"; โดยจะโปลแกรมจะ Run ข้อความ ออกมาเป็น I u00038คือสัญลักษร์ หัวใจ และC\u0023" และu0023 คือสัญลักษณ์ # พอรวมข้อความออกมาจะเป็น  "I  ♥ C#
+ 
+ในส่วนของโค้ด   System.Console.WriteLine(columns);จะส่งผลให้โปรแกรม Run ออกมาเป็น columns1  columns2 columns3 Run ตามโค้ดของ string columns = "Column 1\tColumn 2\tColumn 3";
 
+ในส่วนของโค้ด System.Console.WriteLine(rows); จะส่งผลให้โปรแกรม Run Row1 Row2 Row3 อยู่ตรง Column 1 เชื่อมกับโค้ด string rows = "Row 1\r\nRow 2\r\nRow 3";
 
-
-
+ในส่วนของโค้ด System.Console.WriteLine(title);  จะส่งผลให้โปรแกรม Run ออกมาเป้นข้อความที่เชื่อมกับโค้ด string title = "\"I \u0003 C\u0023"; จะ Run ออกมาเป็น  "I  ♥ C# ตามภาพ
 
 
 
