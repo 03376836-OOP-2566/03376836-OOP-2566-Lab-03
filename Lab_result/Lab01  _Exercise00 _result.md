@@ -49,9 +49,6 @@
 
 ### 2.1.4  `dotnet run`
 
-<br>
-<br>
-
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/d5964373-18e5-4d77-9c66-f7f7b2aa7877)
 
 ### 2.1.4  คำสั่งอืน ๆ
