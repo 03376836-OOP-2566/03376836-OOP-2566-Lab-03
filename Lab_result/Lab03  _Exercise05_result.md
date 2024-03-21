@@ -11,6 +11,8 @@ Verbatim string literals เป็น string ที่ขึ้นต้นด�
 ```
 dotnet new console -n Lab03_Exercise05
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/2d4553c8-a584-4d51-98a4-3e235ddc48c4)
+
 
 2. แก้ไข code ใน Program.cs เป็นดังนี้
 
@@ -45,12 +47,15 @@ System.Console.WriteLine($"quote_in_verbatim_text = {quote_in_verbatim_text}");
 System.Console.WriteLine($"quote_in_text = {quote_in_text}");
 
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/4e62a41c-5c40-46a1-a8e7-a6fac099478c)
+
 
 ## รันโปรแกรม
 
 ``` cmd
 dotnet run --project Lab03_Exercise05
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/8bf06e70-f9a6-4339-96ee-e7eb4dcc9904)
 
 
 
