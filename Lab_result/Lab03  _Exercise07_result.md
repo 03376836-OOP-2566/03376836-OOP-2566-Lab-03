@@ -12,6 +12,9 @@ dotnet new console -n Lab03_Exercise07
 ```
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/4c5f655f-114a-4ba5-a2a9-a93966dc3cf3)
 
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-03/assets/144197034/0fbd0044-fcce-4060-a51e-4a7e533630bd)
+
+
 2. แก้ไข code ใน Program.cs เป็นดังนี้
 
 ### Program #1
