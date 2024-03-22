@@ -1,4 +1,4 @@
-string s1 = "A string is more ";
+﻿string s1 = "A string is more ";
 string s2 = "than the sum of its chars.";
 
 System.Console.WriteLine("Before Concatenate of s1 and s2");
