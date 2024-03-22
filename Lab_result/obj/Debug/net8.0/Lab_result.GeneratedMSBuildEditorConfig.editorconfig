@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Lab_result
-build_property.ProjectDir = C:\Users\Admin\03376836-OOP-2566-Lab-03\Lab_result\
+build_property.ProjectDir = c:\Users\Admin\03376836-OOP-2566-Lab-03\Lab_result\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
