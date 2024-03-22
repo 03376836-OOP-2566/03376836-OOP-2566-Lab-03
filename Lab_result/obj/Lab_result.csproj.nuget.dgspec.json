@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\03376836-OOP-2566-Lab-03\\Lab_result\\Lab_result.csproj": {}
+    "c:\\Users\\Admin\\03376836-OOP-2566-Lab-03\\Lab_result\\Lab_result.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\03376836-OOP-2566-Lab-03\\Lab_result\\Lab_result.csproj": {
+    "c:\\Users\\Admin\\03376836-OOP-2566-Lab-03\\Lab_result\\Lab_result.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\03376836-OOP-2566-Lab-03\\Lab_result\\Lab_result.csproj",
+        "projectUniqueName": "c:\\Users\\Admin\\03376836-OOP-2566-Lab-03\\Lab_result\\Lab_result.csproj",
         "projectName": "Lab_result",
-        "projectPath": "C:\\Users\\Admin\\03376836-OOP-2566-Lab-03\\Lab_result\\Lab_result.csproj",
+        "projectPath": "c:\\Users\\Admin\\03376836-OOP-2566-Lab-03\\Lab_result\\Lab_result.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\03376836-OOP-2566-Lab-03\\Lab_result\\obj\\",
+        "outputPath": "c:\\Users\\Admin\\03376836-OOP-2566-Lab-03\\Lab_result\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
