@@ -1,0 +1,5 @@
+c:\Users\Admin\03376836-OOP-2566-Lab-03\Lab_result\obj\Debug\net8.0\Lab_result.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Admin\03376836-OOP-2566-Lab-03\Lab_result\obj\Debug\net8.0\Lab_result.AssemblyInfoInputs.cache
+c:\Users\Admin\03376836-OOP-2566-Lab-03\Lab_result\obj\Debug\net8.0\Lab_result.AssemblyInfo.cs
+c:\Users\Admin\03376836-OOP-2566-Lab-03\Lab_result\obj\Debug\net8.0\Lab_result.csproj.CoreCompileInputs.cache
+c:\Users\Admin\03376836-OOP-2566-Lab-03\Lab_result\obj\Debug\net8.0\Lab_result.sourcelink.json
