@@ -1,6 +1,7 @@
 ![image](https://github.com/ThanaloekKaisai/03376836-OOP-2566-Lab-03/assets/144195683/ea67093d-fedd-4568-8894-d518b33f041c)
 
 ## อธิบาย ##
+```
 using System;: บรรทัดนี้โหลด namespace System ซึ่งมีคลาสและยูทิลิตี้พื้นฐาน เช่น string, Console ฯลฯ
 string s1 = new string("Hello World!");: บรรทัดนี้สร้างอินสแตนซ์ใหม่ของคลาส string ชื่อ s1 และกำหนดค่าเริ่มต้นเป็น "สวัสดี โลก!"
 string s2 = "Hello World";: บรรทัดนี้สร้าง string object ชื่อ s2 ด้วยค่าเดียวกัน แต่ไม่ใช้ new
