@@ -1,0 +1,15 @@
+C:\03376836-OOP-2566-Lab-03\65030276_Lab3\Lab03_Exercise07\bin\Debug\net8.0\Lab03_Exercise07.exe
+C:\03376836-OOP-2566-Lab-03\65030276_Lab3\Lab03_Exercise07\bin\Debug\net8.0\Lab03_Exercise07.deps.json
+C:\03376836-OOP-2566-Lab-03\65030276_Lab3\Lab03_Exercise07\bin\Debug\net8.0\Lab03_Exercise07.runtimeconfig.json
+C:\03376836-OOP-2566-Lab-03\65030276_Lab3\Lab03_Exercise07\bin\Debug\net8.0\Lab03_Exercise07.dll
+C:\03376836-OOP-2566-Lab-03\65030276_Lab3\Lab03_Exercise07\bin\Debug\net8.0\Lab03_Exercise07.pdb
+C:\03376836-OOP-2566-Lab-03\65030276_Lab3\Lab03_Exercise07\obj\Debug\net8.0\Lab03_Exercise07.GeneratedMSBuildEditorConfig.editorconfig
+C:\03376836-OOP-2566-Lab-03\65030276_Lab3\Lab03_Exercise07\obj\Debug\net8.0\Lab03_Exercise07.AssemblyInfoInputs.cache
+C:\03376836-OOP-2566-Lab-03\65030276_Lab3\Lab03_Exercise07\obj\Debug\net8.0\Lab03_Exercise07.AssemblyInfo.cs
+C:\03376836-OOP-2566-Lab-03\65030276_Lab3\Lab03_Exercise07\obj\Debug\net8.0\Lab03_Exercise07.csproj.CoreCompileInputs.cache
+C:\03376836-OOP-2566-Lab-03\65030276_Lab3\Lab03_Exercise07\obj\Debug\net8.0\Lab03_Exercise07.sourcelink.json
+C:\03376836-OOP-2566-Lab-03\65030276_Lab3\Lab03_Exercise07\obj\Debug\net8.0\Lab03_Exercise07.dll
+C:\03376836-OOP-2566-Lab-03\65030276_Lab3\Lab03_Exercise07\obj\Debug\net8.0\refint\Lab03_Exercise07.dll
+C:\03376836-OOP-2566-Lab-03\65030276_Lab3\Lab03_Exercise07\obj\Debug\net8.0\Lab03_Exercise07.pdb
+C:\03376836-OOP-2566-Lab-03\65030276_Lab3\Lab03_Exercise07\obj\Debug\net8.0\Lab03_Exercise07.genruntimeconfig.cache
+C:\03376836-OOP-2566-Lab-03\65030276_Lab3\Lab03_Exercise07\obj\Debug\net8.0\ref\Lab03_Exercise07.dll
