@@ -1,0 +1,15 @@
+/Users/omelaweng/03376836-OOP-2566-Lab-03-65030027/Lab03_Exercise05/bin/Debug/net8.0/Lab03_Exercise05
+/Users/omelaweng/03376836-OOP-2566-Lab-03-65030027/Lab03_Exercise05/bin/Debug/net8.0/Lab03_Exercise05.deps.json
+/Users/omelaweng/03376836-OOP-2566-Lab-03-65030027/Lab03_Exercise05/bin/Debug/net8.0/Lab03_Exercise05.runtimeconfig.json
+/Users/omelaweng/03376836-OOP-2566-Lab-03-65030027/Lab03_Exercise05/bin/Debug/net8.0/Lab03_Exercise05.dll
+/Users/omelaweng/03376836-OOP-2566-Lab-03-65030027/Lab03_Exercise05/bin/Debug/net8.0/Lab03_Exercise05.pdb
+/Users/omelaweng/03376836-OOP-2566-Lab-03-65030027/Lab03_Exercise05/obj/Debug/net8.0/Lab03_Exercise05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omelaweng/03376836-OOP-2566-Lab-03-65030027/Lab03_Exercise05/obj/Debug/net8.0/Lab03_Exercise05.AssemblyInfoInputs.cache
+/Users/omelaweng/03376836-OOP-2566-Lab-03-65030027/Lab03_Exercise05/obj/Debug/net8.0/Lab03_Exercise05.AssemblyInfo.cs
+/Users/omelaweng/03376836-OOP-2566-Lab-03-65030027/Lab03_Exercise05/obj/Debug/net8.0/Lab03_Exercise05.csproj.CoreCompileInputs.cache
+/Users/omelaweng/03376836-OOP-2566-Lab-03-65030027/Lab03_Exercise05/obj/Debug/net8.0/Lab03_Exercise05.sourcelink.json
+/Users/omelaweng/03376836-OOP-2566-Lab-03-65030027/Lab03_Exercise05/obj/Debug/net8.0/Lab03_Exercise05.dll
+/Users/omelaweng/03376836-OOP-2566-Lab-03-65030027/Lab03_Exercise05/obj/Debug/net8.0/refint/Lab03_Exercise05.dll
+/Users/omelaweng/03376836-OOP-2566-Lab-03-65030027/Lab03_Exercise05/obj/Debug/net8.0/Lab03_Exercise05.pdb
+/Users/omelaweng/03376836-OOP-2566-Lab-03-65030027/Lab03_Exercise05/obj/Debug/net8.0/Lab03_Exercise05.genruntimeconfig.cache
+/Users/omelaweng/03376836-OOP-2566-Lab-03-65030027/Lab03_Exercise05/obj/Debug/net8.0/ref/Lab03_Exercise05.dll
